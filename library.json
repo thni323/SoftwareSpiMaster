@@ -1,0 +1,12 @@
+{
+	"name": "SoftwareSpiMaster",
+	"version": "0.0.1",
+	"keywords": "arduino, spi",
+	"description": "A software SPI implementation for Arduino to run a SPI master on arbitrary pins.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/thni323/SoftwareSpiMaster.git"
+	},
+	"frameworks": "arduino",
+	"platforms": "*"
+}
